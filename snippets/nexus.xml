@@ -10,4 +10,7 @@
   <project path="vendor/pixel/launcher" name="PixelOS-AOSP/proprietary_vendor_pixel_launcher" remote="gitlab" revision="sixteen" />
   <project path="vendor/pixel/sounds" name="PixelOS-AOSP/proprietary_vendor_pixel_sounds" remote="gitlab" revision="sixteen" />
   <project path="vendor/pixel/themepicker" name="PixelOS-AOSP/proprietary_vendor_pixel_themepicker" remote="gitlab" revision="sixteen" />
+
+  <!-- Nexus OTA -->
+  <project path="vendor/nexusOTA" name="Nexus-ROM/android_vendor_nexusOTA" remote="github" revision="lineage-23.0" />
 </manifest>
