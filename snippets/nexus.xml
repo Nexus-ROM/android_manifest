@@ -13,4 +13,5 @@
 
   <!-- Nexus OTA -->
   <project path="vendor/nexusOTA" name="Nexus-ROM/android_vendor_nexusOTA" remote="github" revision="lineage-23.0" />
+  <project path="packages/apps/FaceUnlock" name="Dheeraj3031A/packages_apps_FaceUnlock" remote="nexus-codeberg" revision="16" />
 </manifest>

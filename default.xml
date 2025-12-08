@@ -22,6 +22,12 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote  name="nexus-codeberg"
+           fetch="https://codeberg.org/"
+           sync-c="true"
+           sync-j="4"
+           revision="16" />
+
   <contactinfo bugurl="go/repo-bug" />
 
   <!-- AOSP Projects -->
