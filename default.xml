@@ -18,6 +18,11 @@
            revision="sixteen" />
 
   <default revision="refs/heads/lineage-23.0"
+           remote="nexus"
+           sync-c="true"
+           sync-j="4" />
+
+  <default revision="refs/heads/lineage-23.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
