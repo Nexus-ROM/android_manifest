@@ -9,4 +9,5 @@
   <remove-project name="LineageOS/android_vendor_lineage" />
   <remove-project name="LineageOS/android_system_core" />
   <remove-project name="LineageOS/android_packages_apps_LineageParts" />
+  <remove-project name="LineageOS/android_lineage-sdk" />
 </manifest>
