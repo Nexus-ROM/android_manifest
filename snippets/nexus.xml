@@ -29,6 +29,7 @@
   <project path="system/core" name="android_system_core" groups="pdk" remote="nexus" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="nexus" />
   <project path="lineage-sdk" name="android_lineage-sdk" remote="nexus" />
+  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="nexus" />
 
   <!-- google/pixel apps -->
   <project path="vendor/pixel/extract-utils" name="PixelOS-AOSP/android_vendor_pixel_extract-utils" remote="gitlab" revision="sixteen" >
